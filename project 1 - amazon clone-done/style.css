@@ -24,7 +24,7 @@
 }
 
 .logo {
-    background-image: url("amazon_logo.png");
+    background-image: url("amazon-logo.webp");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -362,7 +362,7 @@ span {
 }
 
 .img1 {
-    background-image: url("box-img1.png");
+    background-image: url("box-img1.jpg");
     background-size: cover;
     /* background-color: blanchedalmond; */
     height: 300px;
@@ -372,7 +372,7 @@ span {
 }
 
 .img2 {
-    background-image: url("box-img2.png");
+    background-image: url("box-img2.jpg");
     background-size: cover;
     /* background-color: blanchedalmond; */
     height: 300px;
@@ -382,7 +382,7 @@ span {
 }
 
 .img3 {
-    background-image: url("box-img3.png");
+    background-image: url("box-img3.jpg");
     background-size: cover;
     /* background-color: blanchedalmond; */
     height: 300px;
@@ -392,7 +392,7 @@ span {
 }
 
 .img4 {
-    background-image: url("box-img4.png");
+    background-image: url("box-img4.jpg");
     background-size: cover;
     /* background-color: blanchedalmond; */
     height: 300px;
@@ -418,7 +418,7 @@ span {
 }
 
 .img5 {
-    background-image: url("box-img5.png");
+    background-image: url("box-img5.jpg");
     background-size: cover;
     /* background-color: blanchedalmond; */
     height: 300px;
@@ -428,7 +428,7 @@ span {
 }
 
 .img6 {
-    background-image: url("box-img6.png");
+    background-image: url("box-img6.jpg");
     background-size: cover;
     /* background-color: blanchedalmond; */
     height: 300px;
@@ -438,7 +438,7 @@ span {
 }
 
 .img7 {
-    background-image: url("box-img7.png");
+    background-image: url("box-img7.jpg");
     background-size: cover;
     /* background-color: blanchedalmond; */
     height: 300px;
@@ -448,7 +448,7 @@ span {
 }
 
 .img8 {
-    background-image: url("box-img8.png");
+    background-image: url("box-img8.jpg");
     background-size: cover;
     /* background-color: blanchedalmond; */
     height: 300px;
@@ -539,7 +539,7 @@ span {
 }
 
 .img9 {
-    background-image: url("box-img9.png");
+    background-image: url("box-img9.jpg");
     background-size: cover;
     /* background-color: blanchedalmond; */
     height: 300px;
@@ -549,7 +549,7 @@ span {
 }
 
 .img10 {
-    background-image: url("box-img10.png");
+    background-image: url("box-img10.jpg");
     background-size: cover;
     /* background-color: blanchedalmond; */
     height: 300px;
@@ -559,7 +559,7 @@ span {
 }
 
 .img11 {
-    background-image: url("box-img11.png");
+    background-image: url("box-img11.jpg");
     background-size: cover;
     /* background-color: blanchedalmond; */
     height: 300px;
@@ -569,7 +569,7 @@ span {
 }
 
 .img12 {
-    background-image: url("box-img12.png");
+    background-image: url("box-img12.jpg");
     background-size: cover;
     /* background-color: blanchedalmond; */
     height: 300px;
@@ -599,7 +599,7 @@ span {
 }
 
 .bx1{
-    height: ;
+    /* height: ; */
     width: 25%;
    
 }
@@ -607,7 +607,7 @@ span {
 .image1{
     height: 30vh;
     width: 25%;
-    background-image: url("long-img1.jpg");
+    background-image: url("long-box1.avif");
     background-size: cover;
 }
 
@@ -761,8 +761,8 @@ ul a:hover{
     
 } */
 .foot-panel5{
-    background-image: url("last-panel-img.png");
+    background-image: url("last-panel.png");
     background-size: cover;
-    height: 80vh;
+    height: 40vh;
     width: 100%;
 }
